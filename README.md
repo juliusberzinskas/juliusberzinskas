@@ -51,4 +51,4 @@ Git · GitHub · Android Studio · Google Maps API
 
 ## Connect
 
-[![LinkedIn](https://linkedin.com/in/julius-berzinskas10)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-julius--berzinskas10-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/julius-berzinskas10)
