@@ -9,7 +9,7 @@ frontend, backend, fullstack or mobile. Open to remote or on-site anywhere in Eu
 ## Tech Stack
 
 **Languages**
-JavaScript · Kotlin · PHP · Java · C++ · C#
+JavaScript · Kotlin · PHP · Java
 
 **Frontend**
 React · HTML · CSS · Material UI · Vite
