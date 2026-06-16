@@ -9,22 +9,16 @@ frontend, backend, fullstack or mobile. Open to remote or on-site anywhere in Eu
 ## Tech Stack
 
 **Languages**
-JavaScript · Kotlin · PHP · Java
+JavaScript · Python · Kotlin · PHP · SQL
 
 **Frontend**
-React · HTML · CSS · Material UI · Vite
-
+React · HTML · CSS · React · Material UI · Vite · Recharts
+ 
 **Backend**
-Laravel · Node.js · PHP (vanilla)
-
-**Mobile**
-Android (Kotlin)
-
-**Databases & Cloud**
-Firebase Firestore · MySQL
+Laravel · Firebase
 
 **Tools**
-Git · GitHub · Android Studio · Google Maps API
+Git · GitHub · VS Code · Android Studio
 
 ---
 
