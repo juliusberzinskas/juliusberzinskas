@@ -1,5 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:1e90ff&height=200&section=header&text=Julius%20Berzinskas&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Full-Stack%20Developer%20%7C%20Web%20%26%20Mobile&descAlignY=55&descSize=18&descColor=ffffff)
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/julius-berzinskas10)
