@@ -22,7 +22,7 @@ I build **web and mobile apps** and I'm actively looking for my first dev role â
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,kotlin,php,java,react,html,css,laravel,firebase,mysql,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,kotlin,php,react,html,css,laravel,firebase,mysql,github)](https://skillicons.dev)
 
 </div>
 
