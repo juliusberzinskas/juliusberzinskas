@@ -32,7 +32,8 @@ Git · GitHub · Android Studio · Google Maps API
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [SolarRadar](https://solarradar.lt)| SolarRadar *(private — available on request)* | Solar power plant O&M admin panel — bachelor's project | React, Firebase, MUI |
+| [SolarRadar WEB](https://solarradar.lt)| SolarRadar Admin Panel *(private — DEMO version available)* | React, Firebase, MUI |
+| [SolarRadar ANDROID](https://solarradar.lt)| SolarRadar  *(private — DEMO version available)* | React, Firebase, MUI |
 | [Solar Panel Planner](https://github.com/juliusberzinskas/SolarPlanner) | Map-based solar panel placement and area calculator | JS, Google Maps |
 | [Fitness Tracker](https://github.com/juliusberzinskas/Fitness-Tracker) | Android app — GPS workouts, step counter, Firebase | Kotlin, Android |
 | [Laravel Conference Manager](https://github.com/juliusberzinskas/laravel-conference-manager) | Multi-role conference platform with admin/employee/client access | Laravel 12, PHP |
