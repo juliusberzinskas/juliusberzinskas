@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/julius-berzinskas10)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berzinskas.julius@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Lithuania-FDB913?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
@@ -25,7 +24,7 @@ I build **web and mobile apps** and I'm actively looking for my first dev role �
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,kotlin,php,java,react,html,css,materialui,vite,laravel,nodejs,firebase,mysql,git,github,androidstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,kotlin,php,java,react,html,css,laravel,firebase,mysql,github)](https://skillicons.dev)
 
 </div>
 
@@ -38,24 +37,11 @@ I build **web and mobile apps** and I'm actively looking for my first dev role �
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Julius's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliusberzinskas&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliusberzinskas&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=juliusberzinskas&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🌞 **[SolarRadar](https://github.com/juliusberzinskas/solarradar)** | Full-stack solar plant maintenance & fault tracking system — bachelor's thesis | React, Kotlin, Firebase |
+| 🌞 **[SolarRadar](https://solarradar.lt)** | Full-stack solar plant maintenance & fault tracking system — bachelor's thesis (currently private DEMO available) | React, Kotlin, Firebase |
 | 🎓 **[Laravel Conference Manager](https://github.com/juliusberzinskas/laravel-conference-manager)** | Multi-role conference platform with admin/employee/client subsystems | Laravel 12, PHP, MySQL |
 | 🏃 **[Fitness Tracker](https://github.com/juliusberzinskas/Fitness-Tracker)** | Android app with GPS workouts, step counter, Firebase sync | Kotlin, Android, Firebase |
 | ☀️ **[Solar Planner](https://github.com/juliusberzinskas/SolarPlanner)** | Map-based solar panel placement and area calculator | JavaScript, Google Maps |
