@@ -39,7 +39,7 @@ I build **web and mobile apps** and I'm actively looking for my first dev role �
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🌞 **[SolarRadar](https://solarradar.lt)** | Full-stack solar plant maintenance & fault tracking system — bachelor's thesis (currently private DEMO available) | React, Kotlin, Firebase |
+| 🌞 **[SolarRadar](https://solarradar.lt)** | Full-stack solar plant maintenance & fault system. Web panel for administrator and Android app for service technician (currently private DEMO available) | React, Kotlin, Firebase |
 | 🎓 **[Laravel Conference Manager](https://github.com/juliusberzinskas/laravel-conference-manager)** | Multi-role conference platform with admin/employee/client subsystems | Laravel 12, PHP, MySQL |
 | 🏃 **[Fitness Tracker](https://github.com/juliusberzinskas/Fitness-Tracker)** | Android app with GPS workouts, step counter, Firebase sync | Kotlin, Android, Firebase |
 | ☀️ **[Solar Planner](https://github.com/juliusberzinskas/SolarPlanner)** | Map-based solar panel placement and area calculator | JavaScript, Google Maps |
